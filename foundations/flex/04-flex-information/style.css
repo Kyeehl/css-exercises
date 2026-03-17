@@ -14,11 +14,13 @@ img {
 }
 .container {
   display: flex;
+  gap: 16px;
 }
 .plants {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 
