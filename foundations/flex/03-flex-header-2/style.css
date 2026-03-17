@@ -52,5 +52,9 @@ ul {
 
 .container {
   display: flex;
-  justify-content: flex-end;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.container-two {
+  display: flex;
 }
