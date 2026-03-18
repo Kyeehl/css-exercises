@@ -71,10 +71,6 @@ button.cancel {
 .modal {
   padding: 15px;
   display: flex;
-}
-
-.container {
-  display: flex;
   gap: 8px;
 }
 
