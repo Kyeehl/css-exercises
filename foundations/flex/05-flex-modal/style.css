@@ -84,3 +84,12 @@ button.cancel {
 .close-button {
   flex-shrink: 0;
 }
+
+.header {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.text {
+  margin-bottom: 16px;
+}
